@@ -1,0 +1,10 @@
+Idrofobia	1
+Anemia	2
+Meningite	3
+Edema	4
+Disidratazione	4
+Orticaria	5
+Anemia	6
+Raffreddore	7
+Dispnea	8
+Odinofagia	9
