@@ -3,8 +3,8 @@
 
 A simulation of system's resource management by spawning and managing concurrent processes through IPC.
 
-[Project requirements](https://github.com/CanobbioE/UNITO/blob/master/SO/progetto_finale15-16.pdf "In Italian")  
-[Project Schema](https://github.com/CanobbioE/UNITO/blob/master/SO/schema_progetto.pdf "In Italian")
+[Project requirements](https://github.com/CanobbioE/SO/blob/master/progetto_finale15-16.pdf "In Italian")  
+[Project Schema](https://github.com/CanobbioE/SO/blob/master/schema_progetto.pdf "In Italian")
 
 ### Project info
 
